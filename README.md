@@ -7,9 +7,9 @@ This gem is currently under development and will eventually be able to return an
 TODO
 ----
 
-Create PDF from text input
-Add basic markup functionality
-Include Works Cited parser (if applicable)
+- Create PDF from text input
+- Add basic markup functionality
+- Include Works Cited parser (if applicable)
 
 
 Contributing
